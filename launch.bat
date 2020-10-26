@@ -1,3 +1,3 @@
 @echo off
-cd C:\Users\edber\OneDrive\Desktop\Bimay schedule bot
+cd to your bot file
 npm run dev 
